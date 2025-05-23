@@ -2436,6 +2436,19 @@ input, select, textarea {
 			#footer .feature-list h3:before {
 				background: #3d4249 url("images/overlay.png");
 			}
+	
+		#footer ul.sitemap{
+			list-style-type: none;
+			padding: unset;
+			padding: 0;
+		}
+
+		#footer ul.sitemap li{
+			padding: unset;
+			padding: 0;
+			margin-top: 1mm;
+		}
+
 
 /* Copyright */
 
